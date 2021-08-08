@@ -6,7 +6,7 @@ In the project directory `vid-tutorial`, please run in your terminal:
 ```bash
 cd api
 yarn install 
-yarn start:dev
+yarn start
 ```
 
 ## Dependencies
@@ -31,3 +31,6 @@ The page will reload if you make edits.
 ### `yarn test`
 
 Launches the test runner.
+
+## References
+https://github.com/bbachi/react-nodejs-typescript-example
