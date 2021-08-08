@@ -6,7 +6,7 @@ In the project directory `vid-tutorial`, please run in your terminal:
 ```bash
 cd api
 yarn install 
-yarn run start:dev
+yarn start:dev
 ```
 
 ## Dependencies

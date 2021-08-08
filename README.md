@@ -6,15 +6,15 @@ In the project directory `vid-tutorial`, please run in your terminal:
 ```bash
 cd api
 yarn install 
-yarn run start:dev
+yarn start:dev
 ```
 In the same project directory, please also run the following: 
 ```bash
-cd frontend
+cd client
 yarn install 
 yarn start
 ```
-You may also run tests in each server or frontend directory by running `yarn test`.
+You may also run tests in each server or client directory by running `yarn test`.
 
 For more details on server and client respectively, please feel free to see the respective READMEs.  
 
